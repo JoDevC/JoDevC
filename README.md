@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Crpyto/Blockchain
-- ⚡ Fun fact: Sometimes I Like Computer Science, Because Technology is Never Ending To Be Explored.
+- ⚡ Fun fact: I Like Computer Science as New Technology is Never Ending To Be Explored.
 
 <!---
 JoDevC/JoDevC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
